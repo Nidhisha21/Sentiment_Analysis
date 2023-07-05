@@ -1,4 +1,4 @@
-# Sentiment_Analysis
+# Sentiment_Analysis of Restaurant Reviews
 ## Problem:
 ### The purpose of this analysis is to build a prediction model to predict whether a review on the restaurant is positive or negative.
 ## Dataset: 
